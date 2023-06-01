@@ -1,0 +1,33 @@
+G:\Computacion Grafica\Proyecto U1 Propio\WinAppGema\WinAppGema\bin\Debug\WinAppGema.exe.config
+G:\Computacion Grafica\Proyecto U1 Propio\WinAppGema\WinAppGema\bin\Debug\WinAppGema.exe
+G:\Computacion Grafica\Proyecto U1 Propio\WinAppGema\WinAppGema\bin\Debug\WinAppGema.pdb
+G:\Computacion Grafica\Proyecto U1 Propio\WinAppGema\WinAppGema\obj\Debug\WinAppGema.csproj.AssemblyReference.cache
+G:\Computacion Grafica\Proyecto U1 Propio\WinAppGema\WinAppGema\obj\Debug\WinAppGema.csproj.SuggestedBindingRedirects.cache
+G:\Computacion Grafica\Proyecto U1 Propio\WinAppGema\WinAppGema\obj\Debug\WinAppGema.frmGema.resources
+G:\Computacion Grafica\Proyecto U1 Propio\WinAppGema\WinAppGema\obj\Debug\WinAppGema.Properties.Resources.resources
+G:\Computacion Grafica\Proyecto U1 Propio\WinAppGema\WinAppGema\obj\Debug\WinAppGema.csproj.GenerateResource.cache
+G:\Computacion Grafica\Proyecto U1 Propio\WinAppGema\WinAppGema\obj\Debug\WinAppGema.csproj.CoreCompileInputs.cache
+G:\Computacion Grafica\Proyecto U1 Propio\WinAppGema\WinAppGema\obj\Debug\WinAppGema.exe
+G:\Computacion Grafica\Proyecto U1 Propio\WinAppGema\WinAppGema\obj\Debug\WinAppGema.pdb
+C:\Users\Vivobook Oled\Desktop\Universidad\Cuarto Semestre\Computacion Grafica\Parcial 1\Proyecto Propio\Proyecto U1 Propio\Proyecto U1 Propio\WinAppGema\WinAppGema\bin\Debug\WinAppGema.exe.config
+C:\Users\Vivobook Oled\Desktop\Universidad\Cuarto Semestre\Computacion Grafica\Parcial 1\Proyecto Propio\Proyecto U1 Propio\Proyecto U1 Propio\WinAppGema\WinAppGema\bin\Debug\WinAppGema.exe
+C:\Users\Vivobook Oled\Desktop\Universidad\Cuarto Semestre\Computacion Grafica\Parcial 1\Proyecto Propio\Proyecto U1 Propio\Proyecto U1 Propio\WinAppGema\WinAppGema\bin\Debug\WinAppGema.pdb
+C:\Users\Vivobook Oled\Desktop\Universidad\Cuarto Semestre\Computacion Grafica\Parcial 1\Proyecto Propio\Proyecto U1 Propio\Proyecto U1 Propio\WinAppGema\WinAppGema\obj\Debug\WinAppGema.csproj.AssemblyReference.cache
+C:\Users\Vivobook Oled\Desktop\Universidad\Cuarto Semestre\Computacion Grafica\Parcial 1\Proyecto Propio\Proyecto U1 Propio\Proyecto U1 Propio\WinAppGema\WinAppGema\obj\Debug\WinAppGema.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vivobook Oled\Desktop\Universidad\Cuarto Semestre\Computacion Grafica\Parcial 1\Proyecto Propio\Proyecto U1 Propio\Proyecto U1 Propio\WinAppGema\WinAppGema\obj\Debug\WinAppGema.frmGema.resources
+C:\Users\Vivobook Oled\Desktop\Universidad\Cuarto Semestre\Computacion Grafica\Parcial 1\Proyecto Propio\Proyecto U1 Propio\Proyecto U1 Propio\WinAppGema\WinAppGema\obj\Debug\WinAppGema.Properties.Resources.resources
+C:\Users\Vivobook Oled\Desktop\Universidad\Cuarto Semestre\Computacion Grafica\Parcial 1\Proyecto Propio\Proyecto U1 Propio\Proyecto U1 Propio\WinAppGema\WinAppGema\obj\Debug\WinAppGema.csproj.GenerateResource.cache
+C:\Users\Vivobook Oled\Desktop\Universidad\Cuarto Semestre\Computacion Grafica\Parcial 1\Proyecto Propio\Proyecto U1 Propio\Proyecto U1 Propio\WinAppGema\WinAppGema\obj\Debug\WinAppGema.csproj.CoreCompileInputs.cache
+C:\Users\Vivobook Oled\Desktop\Universidad\Cuarto Semestre\Computacion Grafica\Parcial 1\Proyecto Propio\Proyecto U1 Propio\Proyecto U1 Propio\WinAppGema\WinAppGema\obj\Debug\WinAppGema.exe
+C:\Users\Vivobook Oled\Desktop\Universidad\Cuarto Semestre\Computacion Grafica\Parcial 1\Proyecto Propio\Proyecto U1 Propio\Proyecto U1 Propio\WinAppGema\WinAppGema\obj\Debug\WinAppGema.pdb
+C:\Users\Vivobook Oled\Desktop\Universidad\Cuarto Semestre\Computacion Grafica\Parcial 1\Proyecto Unidad 1\WinAppGema\WinAppGema\bin\Debug\WinAppGema.exe.config
+C:\Users\Vivobook Oled\Desktop\Universidad\Cuarto Semestre\Computacion Grafica\Parcial 1\Proyecto Unidad 1\WinAppGema\WinAppGema\bin\Debug\WinAppGema.exe
+C:\Users\Vivobook Oled\Desktop\Universidad\Cuarto Semestre\Computacion Grafica\Parcial 1\Proyecto Unidad 1\WinAppGema\WinAppGema\bin\Debug\WinAppGema.pdb
+C:\Users\Vivobook Oled\Desktop\Universidad\Cuarto Semestre\Computacion Grafica\Parcial 1\Proyecto Unidad 1\WinAppGema\WinAppGema\obj\Debug\WinAppGema.csproj.AssemblyReference.cache
+C:\Users\Vivobook Oled\Desktop\Universidad\Cuarto Semestre\Computacion Grafica\Parcial 1\Proyecto Unidad 1\WinAppGema\WinAppGema\obj\Debug\WinAppGema.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vivobook Oled\Desktop\Universidad\Cuarto Semestre\Computacion Grafica\Parcial 1\Proyecto Unidad 1\WinAppGema\WinAppGema\obj\Debug\WinAppGema.frmGema.resources
+C:\Users\Vivobook Oled\Desktop\Universidad\Cuarto Semestre\Computacion Grafica\Parcial 1\Proyecto Unidad 1\WinAppGema\WinAppGema\obj\Debug\WinAppGema.Properties.Resources.resources
+C:\Users\Vivobook Oled\Desktop\Universidad\Cuarto Semestre\Computacion Grafica\Parcial 1\Proyecto Unidad 1\WinAppGema\WinAppGema\obj\Debug\WinAppGema.csproj.GenerateResource.cache
+C:\Users\Vivobook Oled\Desktop\Universidad\Cuarto Semestre\Computacion Grafica\Parcial 1\Proyecto Unidad 1\WinAppGema\WinAppGema\obj\Debug\WinAppGema.csproj.CoreCompileInputs.cache
+C:\Users\Vivobook Oled\Desktop\Universidad\Cuarto Semestre\Computacion Grafica\Parcial 1\Proyecto Unidad 1\WinAppGema\WinAppGema\obj\Debug\WinAppGema.exe
+C:\Users\Vivobook Oled\Desktop\Universidad\Cuarto Semestre\Computacion Grafica\Parcial 1\Proyecto Unidad 1\WinAppGema\WinAppGema\obj\Debug\WinAppGema.pdb
